@@ -1,0 +1,1 @@
+print("solo dire cosas que no se pueden decir")
